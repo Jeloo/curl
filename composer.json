@@ -1,5 +1,5 @@
 {
-    "name": "jeloo/curl",
+    "name": "Jeloo/curl",
     "description": "A simple and lightweight cURL library with support for asynchronous requests.",
     "type": "library",
     "keywords": ["cURL", "HTTP", "Asynchronous", "Spider", "Bot", "Request", "Crawler", "multi"],
