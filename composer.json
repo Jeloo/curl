@@ -10,11 +10,16 @@
             "name": "Jonas Stendahl",
             "email": "jonas.stendahl@gmail.com",
             "homepage": "https://jyggen.com"
+        },
+        {
+            "name": "Ivan Iaroslavtsev",
+            "email": "i.v.yaroslavtsev@gmail.com",
+            "homepage": ""
         }
     ],
     "support": {
-        "issues": "https://github.com/jyggen/curl/issues",
-        "source": "https://github.com/jyggen/curl"
+        "issues": "https://github.com/Jeloo/curl/issues",
+        "source": "https://github.com/Jeloo/curl"
     },
     "require": {
         "php": ">=5.4",
