@@ -1,9 +1,9 @@
 {
-    "name": "Jeloo/curl",
+    "name": "jyggen/curl",
     "description": "A simple and lightweight cURL library with support for asynchronous requests.",
     "type": "library",
     "keywords": ["cURL", "HTTP", "Asynchronous", "Spider", "Bot", "Request", "Crawler", "multi"],
-    "homepage": "https://github.com/Jeloo/curl",
+    "homepage": "https://github.com/jyggen/curl",
     "license": "MIT",
     "authors": [
         {
